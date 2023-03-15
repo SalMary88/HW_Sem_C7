@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\bin\Debug\net6.0\Sem_7.3.exe
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\bin\Debug\net6.0\Sem_7.3.deps.json
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\bin\Debug\net6.0\Sem_7.3.runtimeconfig.json
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\bin\Debug\net6.0\Sem_7.3.dll
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\bin\Debug\net6.0\Sem_7.3.pdb
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\Sem_7.3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\Sem_7.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\Sem_7.3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\Sem_7.3.AssemblyInfo.cs
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\Sem_7.3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\Sem_7.3.dll
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\refint\Sem_7.3.dll
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\Sem_7.3.pdb
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\Sem_7.3.genruntimeconfig.cache
+C:\Users\User\Desktop\C#_Home_Work_2\HW_Sem_C7\Sem_7.3\obj\Debug\net6.0\ref\Sem_7.3.dll
